@@ -102,13 +102,19 @@ Heavy,Value16,Value17,Value18
 ## Screenshots
 
 ### Main Interface
-![Main Interface](https://via.placeholder.com/600x400?text=Main+Interface)
+![Main Interface](![image](https://github.com/user-attachments/assets/27fd1644-d3f7-45ed-a262-ae7db2e17dee)
+)
 
 ### CSV File Upload
-![File Upload](https://via.placeholder.com/600x400?text=File+Upload)
+![File Upload](![image](https://github.com/user-attachments/assets/964e0c3d-d25d-4368-a2d5-ea688f755f79)
+![image](https://github.com/user-attachments/assets/f3224b8f-3cc7-4098-88cb-0a7b09a6aeb0)
+![image](https://github.com/user-attachments/assets/ec0bc6f0-30b8-437a-bd8d-df31e7e1d371)
+
+)
 
 ### Data Display
-![Data Display](https://via.placeholder.com/600x400?text=Data+Display)
+![Data Display](![image](https://github.com/user-attachments/assets/8110196a-71f1-46ae-a4d0-e652d9ed5210)
+)
 
 ---
 
